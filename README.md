@@ -160,7 +160,7 @@ One important mistake I have made was the order of features I concatenate the ti
 
 #### 1. Video Result
 
-Here's a [link to my video result](https://github.com/tncalpmn/SDC_Project_5_Vehicle_Detection/blob/masterproject_video_output.mp4)
+Here's a [link to my video result](https://github.com/tncalpmn/SDC_Project_5_Vehicle_Detection/blob/master/project_video_output.mp4) 
 
 
 #### 2. Filtering False Positives
